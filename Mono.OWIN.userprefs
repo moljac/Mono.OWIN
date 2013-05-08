@@ -1,6 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="Mono 3.0.8" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Logger.EXE_MVC4_OWIN_EntyPoint/App_Start/AuthConfig.cs">
+    <Files>
+      <File FileName="Logger.EXE_MVC4_OWIN_EntyPoint/App_Start/AuthConfig.cs" Line="5" Column="17" />
+      <File FileName="Logger.EXE_MVC4_OWIN_EntyPoint/App_Start/BundleConfig.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
